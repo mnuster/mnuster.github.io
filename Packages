@@ -5,9 +5,9 @@ Maintainer: mnuster <mnuster793@gmail.com>
 Depends: winterboard
 Filename: debs//com.mnuster.customstatii.deb
 Size: 20000
-MD5sum: 19dab9df5dcf8d344e745275c29798d0
-SHA1: 7a12e268e6d41130a727d47649dd772a1a1a6733
-SHA256: d5281c4d81ed2c8b5803783406221b53d585002a699d6b44cd6da1dc8dd51bad
+MD5sum: 59ea8943700e718f21a17dbf90883f00
+SHA1: 22a069b5712d741fb13211b0fa2e4f36b6efc724
+SHA256: 4dab3ea3e7182ca444c60d9dda595fadcb1988726ba78070648586843fa6e405
 Section: Themes (Messages)
 Description: Slashes for statusbar.
 Author: mnuster <mnuster793@gmail.com>
