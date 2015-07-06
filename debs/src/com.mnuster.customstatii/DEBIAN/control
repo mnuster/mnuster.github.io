@@ -1,0 +1,10 @@
+Package: com.mnuster.customstatii
+Name: Statii
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Packaged Statii theme for statusbar
+Homepage: https://github.com/mnuster/
+Depends: winterboard
+Section: Themes (Statusbar)
+Author: mnuster <mnuster793@gmail.com>
+Maintainer: mnuster <mnuster793@gmail.com>
