@@ -3,7 +3,8 @@ Name: CustomStatii
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Packaged Statii theme for statusbar
-Homepage: https://github.com/mnuster/
+Homepage: http://mnuster.github.io/depic/customstatii/index.html
+Depiction: http://mnuster.github.io/depic/customstatii/index.html
 Depends: winterboard
 Section: Themes (Statusbar)
 Author: mnuster <mnuster793@gmail.com>

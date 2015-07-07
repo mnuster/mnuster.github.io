@@ -3,13 +3,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: mnuster <mnuster793@gmail.com>
 Depends: winterboard
-Filename: debs//com.mnuster.customstatii.deb
-Size: 20000
-MD5sum: 59ea8943700e718f21a17dbf90883f00
-SHA1: 22a069b5712d741fb13211b0fa2e4f36b6efc724
-SHA256: 4dab3ea3e7182ca444c60d9dda595fadcb1988726ba78070648586843fa6e405
-Section: Themes (Messages)
-Description: Slashes for statusbar.
+Filename: ./debs/com.mnuster.customstatii.deb
+Size: 20026
+MD5sum: cae5c6593ab30c099610f7fd2c3c0097
+SHA1: bc48fd5ce1af19a2448e1d025248d67fe55e6607
+SHA256: bd5b46266993d48cd05694c181acc96a9aac65083d02def05d5fe9d31b6bb530
+Section: Themes (Statusbar)
+Homepage: http://mnuster.github.io/depic/customstatii/index.html
+Description: Packaged Statii theme for statusbar
 Author: mnuster <mnuster793@gmail.com>
 Depiction: http://mnuster.github.io/depic/customstatii/index.html
 Name: CustomStatii
+

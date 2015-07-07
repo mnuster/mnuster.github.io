@@ -6,5 +6,13 @@ Codename: Mnuster
 Architectures: iphoneos-arm
 Components: main
 Description: Mnuster's personal repo
-MD5Sum:
 
+MD5Sum:
+ e98b50b8fae338a593a88d8f62886e99 624 Packages
+ 911c1f5a2954c2d8bb54b3ed8f6502f4 425 Packages.bz2
+SHA1:
+ 7f9b5eeaa235114f0ea7cadf4f7082e416239dd4 624 Packages
+ baca72ecd90a219d01d181c985af3b21bbd89685 425 Packages.bz2
+SHA256:
+ 771f10888dde116883af0449d40b394241afeff9e46a0535ca182ad536260c4f 624 Packages
+ a7d24da2d5872c4d39f60abd0554a50309388e9cd8db5073b18a781695dde06f 425 Packages.bz2
