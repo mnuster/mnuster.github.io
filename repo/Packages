@@ -4,15 +4,15 @@ Architecture: iphoneos-arm
 Maintainer: mnuster <mnuster793@gmail.com>
 Depends: winterboard
 Filename: ./debs/com.mnuster.customcitysms.deb
-Size: 12806
-MD5sum: f172979bfb16b275032d77673bfac8ef
-SHA1: 809bf75121d54e4455bc15c44cd556db2b118957
-SHA256: e4c2ddf694c4ef0bd4a8b5dc313bf68b825e135185d0e7498210dc4779ea82da
+Size: 12736
+MD5sum: d4dc0e250c1fec532cf835432f36fada
+SHA1: c441770b859fed03e01000fd6e19a3577d573dcd
+SHA256: 41dff7fbc8f51a56ed7121ef5eae368f24b30d11989278b5999f842bda35601c
 Section: Themes (Messages)
-Homepage: http://mnuster.github.io/depic/customcitysms/index.html
+Homepage: http://mnuster.github.io/repo/depic/customcitysms/index.html
 Description: Packaged CitySMS theme for Messages
 Author: mnuster <mnuster793@gmail.com>
-Depiction: http://mnuster.github.io/depic/customcitysms/index.html
+Depiction: http://mnuster.github.io/repo/depic/customcitysms/index.html
 Name: CustomCitySMS
 
 Package: com.mnuster.customstatii
@@ -21,14 +21,14 @@ Architecture: iphoneos-arm
 Maintainer: mnuster <mnuster793@gmail.com>
 Depends: winterboard
 Filename: ./debs/com.mnuster.customstatii.deb
-Size: 83728
-MD5sum: 850a3483bee78e7e7683f229b0238379
-SHA1: 2dec667a367bc980d7e386dab4a8f596eae50e94
-SHA256: bcbe34626dd8eb2521bb2c6e70dce750f80c3b7fe1a9281744ba31936d4ebeb3
+Size: 82762
+MD5sum: c75633cbd34b802b79f4b37f1f595a2f
+SHA1: 2d716241426b1c303ec0fce3d54346b8a7e2db40
+SHA256: 0116422bf423f7929fd90dd38d8d81c4268a250b8c56e38c9116640bc933bb94
 Section: Themes (Statusbar)
-Homepage: http://mnuster.github.io/depic/customstatii/index.html
+Homepage: http://mnuster.github.io/repo/depic/customstatii/index.html
 Description: Packaged Statii theme for statusbar
 Author: mnuster <mnuster793@gmail.com>
-Depiction: http://mnuster.github.io/depic/customstatii/index.html
+Depiction: http://mnuster.github.io/repo/depic/customstatii/index.html
 Name: CustomStatii
 
