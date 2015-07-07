@@ -1,3 +1,20 @@
+Package: com.mnuster.customcitysms
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mnuster <mnuster793@gmail.com>
+Depends: winterboard
+Filename: ./debs/com.mnuster.customcitysms.deb
+Size: 12806
+MD5sum: f172979bfb16b275032d77673bfac8ef
+SHA1: 809bf75121d54e4455bc15c44cd556db2b118957
+SHA256: e4c2ddf694c4ef0bd4a8b5dc313bf68b825e135185d0e7498210dc4779ea82da
+Section: Themes (Messages)
+Homepage: http://mnuster.github.io/depic/customcitysms/index.html
+Description: Packaged CitySMS theme for Messages
+Author: mnuster <mnuster793@gmail.com>
+Depiction: http://mnuster.github.io/depic/customcitysms/index.html
+Name: CustomCitySMS
+
 Package: com.mnuster.customstatii
 Version: 1.0
 Architecture: iphoneos-arm
