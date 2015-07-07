@@ -3,8 +3,8 @@ Name: CustomCitySMS
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Packaged CitySMS theme for Messages
-Homepage: http://mnuster.github.io/depic/customcitysms/index.html
-Depiction: http://mnuster.github.io/depic/customcitysms/index.html
+Homepage: http://mnuster.github.io/repo/depic/customcitysms/index.html
+Depiction: http://mnuster.github.io/repo/depic/customcitysms/index.html
 Depends: winterboard
 Section: Themes (Messages)
 Author: mnuster <mnuster793@gmail.com>
