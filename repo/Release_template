@@ -1,9 +1,0 @@
-Origin: mnuster's Repo
-Label: mnuster's Repo
-Suite: stable
-Version: 1.0
-Codename: Mnuster
-Architectures: iphoneos-arm
-Components: main
-Description: Mnuster's personal repo
-
